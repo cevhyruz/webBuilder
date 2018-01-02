@@ -1,0 +1,24 @@
+{
+  "name": "webbuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cevhyruz/webBuilder.git"
+  },
+  "author": "cevhyruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cevhyruz/webBuilder/issues"
+  },
+  "homepage": "https://github.com/cevhyruz/webBuilder#readme",
+  "devDependencies": {
+    "electron": "^1.7.10",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
